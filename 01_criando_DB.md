@@ -6,6 +6,8 @@
 
 #### Para criar uma base de dados
 `use dbmidias` == dbmidias é o nome da base  
+#### Consulta as base de dados
+`show dbs`
 #### Para inseri dados 
 `db.posts.insert({nome: 'José', postagem: 'Bom Produtos!', dia: '31-06-2022'})`  
 db == a base de dados  
